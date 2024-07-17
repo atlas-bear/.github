@@ -27,23 +27,23 @@ For more information on our custom training solutions, please [contact us](mailt
 
 ## Repositories
 
-### MARA
+### [MARA](https://github.com/atlas-bear/mara)
 
 MARA is a web app for monitoring maritime and security-related incidents. It includes integrated intelligence reports, daily hot spots, and comprehensive country and port indices.
 
-### osint-tools
+### [osint-tools](https://github.com/atlas-bear/osint-tools)
 
 Repository sharing tools used in our own research for public use.
 
-### recommended-reading
+### [recommended-reading](https://github.com/atlas-bear/recommended-reading)
 
 A curated list of recommended reading materials.
 
-### supply-chain-management-tools
+### [supply-chain-management-tools](https://github.com/atlas-bear/supply-chain-management-tools)
 
 Tools and resources for supply chain management in emerging and frontier markets.
 
-Stay tuned for more repositories coming soon!
+🌟 Stay tuned for more repositories coming soon! 🌟
 
 ## Contributing
 
