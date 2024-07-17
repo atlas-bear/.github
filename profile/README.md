@@ -21,7 +21,7 @@ Every Atlas Bear engagement supports independent fieldwork, impact investment, a
 
 ### Atlas Bear Field Academy
 
-The Atlas Bear Academy offers private training and professional development programs designed to accelerate careers and make a positive impact globally. Explore our curated suite of [online courses](https://www.atlasbear.academy), including our flagship program, the Mombasa Method, available on-demand.
+The Atlas Bear Academy offers private training and professional development programs designed to accelerate careers and make a positive impact globally. Explore our curated suite of [online courses](https://www.atlasbear.academy), including our flagship program, the [Mombasa Method](https://www.atlasbear.academy/course/the-mombasa-method), available on-demand.
 
 For more information on our custom training solutions, please [contact us](mailto:courier@atlasbear.co).
 
