@@ -1,6 +1,6 @@
 # Welcome to Atlas Bear Labs
 
-Atlas Bear Labs is the development hub where Atlas Bear creates and shares tools for maritime security, tactical applications, and strategic intelligence. Explore, contribute, collaborate with us!
+Atlas Bear Labs is the development hub where Atlas Bear creates and shares tools for maritime security, tactical applications, and strategic intelligence. Explore, contribute, and collaborate with us!
 
 ## About Atlas Bear
 
