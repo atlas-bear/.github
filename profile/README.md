@@ -56,8 +56,6 @@ For more information on our custom training solutions, please [contact us](mailt
   ![GitHub stars](https://img.shields.io/github/stars/atlas-bear/mara?style=social)
   ![Last commit](https://img.shields.io/github/last-commit/atlas-bear/mara)
 
-🌟 Stay tuned for more repositories coming soon! 🌟
-
 ## Contributing
 
 We welcome contributions from the community. Please read our [contributing guidelines](CONTRIBUTING.md) for more information on how to get started.
