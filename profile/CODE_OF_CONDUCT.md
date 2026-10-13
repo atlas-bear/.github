@@ -28,11 +28,11 @@ Community leaders are responsible for clarifying and enforcing our standards of 
 
 ## Reporting Violations
 
-If you are subjected to or witness unacceptable behavior, or have any concerns, please report it by contacting us at support@ab-labs.io. All reports will be reviewed and investigated promptly and confidentially.
+If you are subjected to or witness unacceptable behavior, or have any concerns, please report it by contacting us at [support@ab-labs.io](mailto:support@ab-labs.io). All reports will be reviewed and investigated promptly and confidentially.
 
 ## Attribution
 
-This Code of Conduct is adapted from the Contributor Covenant, version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html
+This Code of Conduct is adapted from the Contributor Covenant, version 2.0, available at <https://www.contributor-covenant.org/version/2/0/code_of_conduct.html>
 
 ---
 
