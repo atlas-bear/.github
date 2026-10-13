@@ -1,75 +1,39 @@
-# Welcome to Atlas Bear Labs
+# Atlas Bear Labs
 
-Atlas Bear Labs is the development hub where Atlas Bear creates and shares tools for maritime security, tactical applications, and strategic intelligence. Explore, contribute, and collaborate with us!
+Atlas Bear Labs is where [Atlas Bear](https://atlasbear.co) builds and shares tools and resources for intelligence work on illicit trade: maritime security, supply chains and the open sources that let you see both. Everything we publish is gathered on one page, the **[Atlas Bear Library](https://atlas-bear.github.io/)**.
+
+## What you will find here
+
+- **[AI-Enhanced OSINT](https://github.com/atlas-bear/osint-ai-guide)**: a practical guide to using AI in intelligence work, with the OPSEC rules that apply to every tool. Also a [website](https://atlas-bear.github.io/osint-ai-guide/).
+- **[Maritime and Supply Chain OSINT Tools](https://github.com/atlas-bear/osint-tools)**: the tools and data sources we use to track ships, cargo and trade, each verified, with who runs it and what it costs. Also a [website](https://atlas-bear.github.io/osint-tools/) and a data file.
+- **[Recommended Reading](https://github.com/atlas-bear/recommended-reading)**: books, reports and papers for people working on illicit trade, with full citations and downloads for reference managers. Also a [website](https://atlas-bear.github.io/recommended-reading/).
+- **[cue-kit](https://github.com/atlas-bear/cue-kit)**: turn a video into frames and a timestamped transcript that a language model can read.
+- **[equasis-cli](https://github.com/rhinonix/equasis-cli)**: look up vessels, inspections and owners in Equasis from the command line, in batches.
+- **[MARA](https://maraiq.com)**: our maritime security intelligence platform. Feedback and the public roadmap live in [mara-roadmap](https://github.com/atlas-bear/mara-roadmap); our newsletter is [Waterline](https://maraiq.substack.com/).
 
 ## About Atlas Bear
 
-> Intelligence advisory and operational support for challenging markets worldwide
+Atlas Bear provides intelligence advisory and operational support to organisations deploying people, technology and capital in difficult markets. We work on international trade, risk management and the professional services that need specialist knowledge and fieldwork: competitive intelligence and due diligence, management consulting, professional training, international logistics in emerging and frontier markets, business development and special projects.
 
-Atlas Bear provides sui generis intelligence advisory and operational support to private firms deploying people, technology, and capital in the world's most challenging markets. We specialize in international trade, risk management, and professional services requiring specialized expertise and extensive fieldwork.
+### Atlas Bear Academy
 
-### Our Services
+Training and professional development for people who want to do this work well, online and in person.
 
-- **Competitive Intelligence**: Market entry research, stakeholder analysis, ESG due diligence, corporate investigations, impact assessments, political risk & security threat monitoring.
-- **Management Consulting**: Strategic planning, advisory services for high-performance organizations, and executive support for impact-minded professionals.
-- **Professional Training**: Virtual, hybrid, and in-person training programs for continuous personal and professional development.
-- **International Logistics**: Global supply chain mapping, assessments, specialized procurement, and last-mile logistics in emerging & frontier markets.
-- **Business Development**: White label content, business referrals, opportunity identification, and capital partnerships.
-- **Special Projects**: Hybrid project management for unique strategic initiatives requiring creative solutions and global contacts.
+- [Online courses](https://www.atlasbear.academy)
+- [The Mombasa Method](https://www.atlasbear.academy/course/the-mombasa-method), our flagship on-demand programme
 
-### Atlas Bear Field Academy
-
-Private training and professional development programs designed to accelerate careers and make a positive impact globally.
-
-- **[Online Courses](https://www.atlasbear.academy)** - Curated suite of professional development programs
-- **[The Mombasa Method](https://www.atlasbear.academy/course/the-mombasa-method)** - Our flagship on-demand program
-
-For more information on our custom training solutions, please [contact us](mailto:courier@atlasbear.co).
-
-## Our Repositories
-
-### Intelligence & Research Tools
-
-- **[osint-tools](https://github.com/atlas-bear/osint-tools)** - Maritime and supply chain OSINT tools for practitioners
-  ![GitHub stars](https://img.shields.io/github/stars/atlas-bear/osint-tools?style=social)
-  ![Last commit](https://img.shields.io/github/last-commit/atlas-bear/osint-tools)
-
-### Knowledge Resources
-
-- **[recommended-reading](https://github.com/atlas-bear/recommended-reading)** - Curated reading list for intelligence professionals
-  ![GitHub stars](https://img.shields.io/github/stars/atlas-bear/recommended-reading?style=social)
-  ![Last commit](https://img.shields.io/github/last-commit/atlas-bear/recommended-reading)
-
-### Supply Chain Intelligence
-
-- **[supply-chain-management-tools](https://github.com/atlas-bear/supply-chain-management-tools)** - Open source tools for emerging markets
-  ![GitHub stars](https://img.shields.io/github/stars/atlas-bear/supply-chain-management-tools?style=social)
-  ![Last commit](https://img.shields.io/github/last-commit/atlas-bear/supply-chain-management-tools)
-
-- **[osint-ai-guide](https://github.com/atlas-bear/osint-ai-guide)** - AI applications in OSINT workflows
-  ![GitHub stars](https://img.shields.io/github/stars/atlas-bear/osint-ai-guide?style=social)
-  ![Last commit](https://img.shields.io/github/last-commit/atlas-bear/osint-ai-guide)
-
-### Maritime Intelligence Platform
-
-- **[MARA](https://github.com/atlas-bear/mara)** - Multi-source Analysis and Reporting Architecture
-  ![GitHub stars](https://img.shields.io/github/stars/atlas-bear/mara?style=social)
-  ![Last commit](https://img.shields.io/github/last-commit/atlas-bear/mara)
+For custom training, write to [courier@atlasbear.co](mailto:courier@atlasbear.co).
 
 ## Contributing
 
-We welcome contributions from the community. Please read our [contributing guidelines](CONTRIBUTING.md) for more information on how to get started.
-
-- [Contributing to OSINT Tools](https://github.com/atlas-bear/osint-tools/blob/main/CONTRIBUTING.md)
-- [Suggesting Reading Materials](https://github.com/atlas-bear/recommended-reading/discussions/1)
-- [Supply Chain Tool Contributions](https://github.com/atlas-bear/supply-chain-management-tools/issues)
+Each resource has an issue form for proposals and corrections, written criteria for what goes in, and a changelog. We sweep the guide and the lists twice a year and release each sweep. Pull requests are welcome; the repositories explain their formats. Please read our [contributing guidelines](CONTRIBUTING.md) and [community guidelines](COMMUNITY_GUIDELINES.md) first.
 
 ## Contact
 
-- **Support**: [support@atlasbear.co](mailto:support@atlasbear.co)
-- **Training Inquiries**: [courier@atlasbear.co](mailto:courier@atlasbear.co)
+- **Support and anything about the resources**: [support@atlasbear.co](mailto:support@atlasbear.co)
+- **Training**: [courier@atlasbear.co](mailto:courier@atlasbear.co)
 - **Website**: [atlasbear.co](https://atlasbear.co)
 
 ---
 
-Every Atlas Bear engagement supports independent fieldwork, impact investment, and critical projects in vulnerable communities worldwide — simply by operating within our network.
+Every Atlas Bear engagement supports independent fieldwork, impact investment and critical projects in vulnerable communities worldwide, simply by operating within our network.
