@@ -43,6 +43,7 @@ Ensure your code changes are well-documented. Update relevant documentation file
 ### Commit Messages
 
 Write clear and meaningful commit messages. Use imperative mood and keep messages concise yet descriptive. For example:
+
 - "Add feature to enhance incident reporting"
 - "Fix issue with data parsing in API module"
 
