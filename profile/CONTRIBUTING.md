@@ -1,6 +1,6 @@
-# Contributing to Atlas Bear Labs Projects
+# Contributing to AB//LABS projects
 
-Welcome to Atlas Bear Labs! We appreciate your interest in contributing to our projects. By participating, you not only improve our tools and resources but also contribute to the broader community working in maritime security, tactical applications, and strategic intelligence.
+Welcome to AB//LABS! We appreciate your interest in contributing to our projects. By participating, you not only improve our tools and resources but also contribute to the broader community working in maritime security, tactical applications, and strategic intelligence.
 
 To ensure a smooth and productive collaboration, please review the following guidelines before contributing.
 
@@ -50,13 +50,13 @@ Refer to the [Commit Messages](CONTRIBUTING.md#commit-messages) section for more
 
 ## Licensing
 
-By contributing to Atlas Bear Labs projects, you agree that your contributions will be licensed under the [LICENSE](../LICENSE) file associated with the repository unless stated otherwise.
+By contributing to AB//LABS projects, you agree that your contributions will be licensed under the [LICENSE](../LICENSE) file associated with the repository unless stated otherwise.
 
 ## Community
 
 Join our community discussions and stay updated on project developments. Your feedback and contributions are valuable to us and the wider community.
 
-Thank you for contributing to Atlas Bear Labs projects!
+Thank you for contributing to AB//LABS projects!
 
 ---
 

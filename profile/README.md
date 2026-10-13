@@ -1,6 +1,8 @@
-# Atlas Bear Labs
+# AB//LABS
 
-Atlas Bear Labs is where [Atlas Bear](https://atlasbear.co) builds and shares tools and resources for intelligence work on illicit trade: maritime security, supply chains and the open sources that let you see both. Everything we publish is gathered on one page, the **[Atlas Bear Library](https://atlas-bear.github.io/)**.
+AB//LABS builds and shares tools and resources for intelligence work on illicit trade: maritime security, supply chains and the open sources that let you see both. Everything we publish is gathered on one page, the **[Library](https://atlas-bear.github.io/)**.
+
+AB//LABS began as Atlas Bear Labs, the technical side of [Atlas Bear](https://atlasbear.co), and is now a company of its own. The two still work together, and our repositories keep the `atlas-bear` name on GitHub for now.
 
 ## What you will find here
 
@@ -11,18 +13,15 @@ Atlas Bear Labs is where [Atlas Bear](https://atlasbear.co) builds and shares to
 - **[equasis-cli](https://github.com/rhinonix/equasis-cli)**: look up vessels, inspections and owners in Equasis from the command line, in batches.
 - **[MARA](https://maraiq.com)**: our maritime security intelligence platform. Feedback and the public roadmap live in [mara-roadmap](https://github.com/atlas-bear/mara-roadmap); our newsletter is [Waterline](https://maraiq.substack.com/).
 
+## About AB//LABS
+
+[AB//LABS](https://ab-labs.io) provides intelligence and support across maritime, defence and logistics: vessel tracking and port assessments, operational intelligence before and during deployments, threat and risk analysis, and advisory work on building analytical capability and training teams. The tools and lists here come out of that work.
+
 ## About Atlas Bear
 
-Atlas Bear provides intelligence advisory and operational support to organisations deploying people, technology and capital in difficult markets. We work on international trade, risk management and the professional services that need specialist knowledge and fieldwork: competitive intelligence and due diligence, management consulting, professional training, international logistics in emerging and frontier markets, business development and special projects.
+[Atlas Bear](https://atlasbear.co) provides intelligence advisory and operational support to organisations deploying people, technology and capital in difficult markets, with the fieldwork, logistics and professional services that need specialist knowledge. Every Atlas Bear engagement supports independent fieldwork, impact investment and critical projects in vulnerable communities worldwide, simply by operating within its network.
 
-### Atlas Bear Academy
-
-Training and professional development for people who want to do this work well, online and in person.
-
-- [Online courses](https://www.atlasbear.academy)
-- [The Mombasa Method](https://www.atlasbear.academy/course/the-mombasa-method), our flagship on-demand programme
-
-For custom training, write to [courier@atlasbear.co](mailto:courier@atlasbear.co).
+The [Atlas Bear Academy](https://www.atlasbear.academy) runs training and professional development for people who want to do this work well, online and in person; our people teach on it. [The Mombasa Method](https://www.atlasbear.academy/course/the-mombasa-method) is its flagship on-demand programme. For custom training, write to [courier@atlasbear.co](mailto:courier@atlasbear.co).
 
 ## Contributing
 
@@ -30,10 +29,6 @@ Each resource has an issue form for proposals and corrections, written criteria 
 
 ## Contact
 
-- **Support and anything about the resources**: [support@atlasbear.co](mailto:support@atlasbear.co)
+- **Support and anything about the resources**: [support@ab-labs.io](mailto:support@ab-labs.io)
 - **Training**: [courier@atlasbear.co](mailto:courier@atlasbear.co)
-- **Website**: [atlasbear.co](https://atlasbear.co)
-
----
-
-Every Atlas Bear engagement supports independent fieldwork, impact investment and critical projects in vulnerable communities worldwide, simply by operating within our network.
+- **Websites**: [ab-labs.io](https://ab-labs.io) and [atlasbear.co](https://atlasbear.co)
